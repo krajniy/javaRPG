@@ -1,7 +1,7 @@
 A simple RPG generated with a template including simple application launchers and an `ApplicationAdapter` extension.
 This project also uses [Gradle](http://gradle.org/) to manage dependencies.
 
-Check this this video to get the first impression:
+Check this video to get the first impression:
 https://youtu.be/1jOjFD6ADdQ
 
 
